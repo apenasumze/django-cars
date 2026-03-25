@@ -1,0 +1,4 @@
+# Super User
+email: jvitorac123@hotmail.com
+login: admin
+password: admin
